@@ -5,7 +5,9 @@ A clock made by CSS and Javascript
 Both Analog and Digital Clock are present on the webpage.
 
 ## Upcoming Features
-Stopwatch
-Timer
+
+- Stopwatch
+
+- Timer
 
 You can visit the website by clicking [here](https://b30wulffz.github.io/jsClock)
