@@ -8,4 +8,4 @@ Both Analog and Digital Clock are present on the webpage.
 Stopwatch
 Timer
 
-You can visit the website by clicking (here)[https://b30wulffz.github.io/jsClock]
+You can visit the website by clicking [here](https://b30wulffz.github.io/jsClock)
