@@ -26,7 +26,7 @@ function setTime(){
     minDigit.innerText= min;
     
     const hour= now.getHours();
-    const hourDegree= ((hour)*360) + ((min/60)*30) +90;
+    const hourDegree= ((hour/12)*360) + ((min/60)*30) +90;
     hourHand.style.transform= `rotate(${hourDegree}deg)`;
     let hourData= hour%12;
     hourData= (hourData < 10 ? '0' : '') + hourData;
