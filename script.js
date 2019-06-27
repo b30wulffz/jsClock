@@ -4,9 +4,9 @@ const hourHand= document.querySelector('.hour-hand');
 const pivot= document.querySelector('.pivot');
 
 
-var secDigit = document.getElementsByClassName("sec")[0];
-var minDigit = document.getElementsByClassName("min")[0];
-var hourDigit = document.getElementsByClassName("hour")[0];
+const secDigit = document.getElementsByClassName("sec")[0];
+const minDigit = document.getElementsByClassName("min")[0];
+const hourDigit = document.getElementsByClassName("hour")[0];
 const ampm= document.getElementsByClassName("ampm")[0];
 
 function setTime(){
